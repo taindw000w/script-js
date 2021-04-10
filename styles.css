@@ -1,0 +1,257 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+body {
+	background-color: #f5f5f5; 
+}
+
+
+h1 {
+	font-size: 20px;
+	margin-bottom: 18px;
+	font-family: sans-serif;
+	float: left;
+	padding-bottom: 10px;
+	margin-right: 370px;
+	margin-top: 13px;
+
+}
+
+.info {
+	margin-top: 19px;
+	margin-bottom: 8px;
+	font-size: 18px;
+	margin-left: 19px;
+	font-family: sans-serif;
+	background-image: url(clear-button.png);
+	background-repeat: no-repeat;
+	background-position-x: 37%;
+	background-position-y: 50%;
+}
+
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 33px;
+	font-family: sans-serif;
+}
+
+
+
+form {
+	padding: 0px 10px 10px 10px;
+	background-color: white;
+}
+
+
+
+input[type="text"] {
+	margin-left: 40px;
+	width: 342px;
+	height: 40px;
+	background-color: #fcfcfc;
+	border: solid 1px #ebebeb;
+	outline: none;
+	padding-left: 21px;
+	margin-bottom: 19px;
+	font-size: 14px;
+	font-family: sans-serif;
+	padding-right: 21px;
+}
+
+
+textarea {
+	margin-left: 40px;
+	width:  342px;
+	height: 230px;
+	background-color: #fcfcfc;
+	border: solid 1px #ebebeb;
+	margin-bottom: 30px;
+	resize: none;
+	outline: none;
+	font-size: 14px;
+	font-family: sans-serif;
+	padding: 21px;
+
+}
+
+
+.list {
+	position: relative;
+	left: 428px;
+	bottom: 33px;
+	overflow: hidden;
+}
+
+
+li.par {
+	color: #8993ad;
+	margin-top: 17px;
+	font-size: 14px;
+	font-family: sans-serif;
+	margin-left: 3px;
+
+}
+
+
+
+.error {
+	border:  1px solid red;
+}
+
+.error1 {
+	
+	border:  1px solid red;
+
+}
+
+.newStyle {
+	color: #8993ad;
+}
+
+
+
+.all_container {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+
+.central_container {
+	margin: 100px auto;
+	width: 960px;
+	overflow: hidden;
+}
+
+
+.scroll {
+	padding-bottom: 64px;
+
+
+}
+.left_block {
+	float: left;
+	overflow: hidden;
+	margin-right: 10px;
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+.left__block__info {
+	position: relative;
+	background-color: white;
+	width: 470px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+
+li.first_message {
+	position: relative;
+	margin-left: 20px;
+	padding-top: 19px;
+	list-style-type: none;
+	margin-bottom: 14px;
+
+}
+
+.image {
+	position: relative;
+	overflow: hidden;
+	left: 20px;
+}
+
+
+li.second_message {
+	margin-left: 20px;
+	padding-top: 19px;
+	list-style-type: none;
+	overflow: hidden;
+	padding-bottom: 54px;
+}
+
+
+.sector {
+	overflow: hidden;
+	background-color: white; 
+	margin-bottom: 20px;
+}
+
+.sector p {
+	margin-left: 20px;
+
+}
+
+.border {
+	border: solid 1px #f7f7f7;
+}
+
+.info_class {
+	margin-bottom: 60px;
+	color: #8993ad;
+	padding-top: 12px;
+	padding-left: 20px;
+}
+
+.second_sector {
+	overflow: hidden;
+	background-color: white;
+}
+
+.second_sector p {
+	margin-left: 20px;
+}
+
+.right_block {
+	margin-left: 3px;
+	width: 470px;
+	float: right;
+}
+ 
+#container_info {
+
+	background-color: white;
+}
+
+#container_info span {
+	color: #8993ad;
+	padding-left: 40px;
+	font-size: 17px;
+	padding-top: 30px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+	display: inline-block;
+}
+
+.information {
+	color: #8993ad;
+	padding-left: 40px;
+	font-size: 17px;
+	padding-top: 27px;
+	margin-top: 0px;
+	margin-bottom: 26px;
+	padding-bottom: 10px;
+
+}
+
+.information p {
+	margin-top: 0px;
+	margin-left: 40px;
+}
+
+#btn {
+	margin-left: 40px;
+	height: 55px;
+	width: 224px;
+	color: white;
+	background-color: #2174fd;
+	border: 1px solid #2174fd;
+	font-size: 16px;
+	margin-bottom: 36px;
+}
